@@ -1,0 +1,7 @@
+/out
+/tmp
+/data
+bazel-*
+
+.cache/
+.errors.log
